@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17980856.svg)](https://doi.org/10.5281/zenodo.17980856)
+
 # polysat-hypervolume-analyses
 
 This repository contains two R scripts used in the analyses presented in the paper submission "Contact zones as natural laboratories for cryptic speciation: genetic and ecological divergence in the autopolyploid Aster amellus aggregate". 
